@@ -159,6 +159,6 @@ In the below table the fully loaded times of both the versions are given.
 </table>
 <!-- DivTable.com -->
 
-<p>Feel free to pick your own winner. For my use cases I think Netlify is the winner. This site you are reading now is hosted on Netlify.</p>
+<p>Feel free to pick your own winner. For my use cases I think Netlify is the winner.The site you are reading now is hosted on Github pages.</p>
 
 The featured image on the top was from pixabay. Image by <a href="https://pixabay.com/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Pixabay</a>
