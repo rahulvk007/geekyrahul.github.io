@@ -14,7 +14,7 @@ Netlify one of the most popular choice among those looking to host a static webs
 
 We set up a two identical websites on github pages and netlify. In fact both of them were deployed from the same github repository. The site was built using the static site generator Jekyll. We installed the mediumish theme on our test site. The theme already had a few posts built in complete with images. This helped us to simulate a real world scenario. The size of the webpage was around 1.9 MB. So the average size. There was a good number of css and js files on the webpage. We took multiple runs to minimize error and also to give the cdn time to cache resources. Because usually the first one or two requests will be cache miss as the cdn cache will be probably expired. But after a few visits everything will start to get served from the cdn.
 
-Services we used for the speed test are given below. 
+Services we used for the speed test are given below.
 
 <ul>
   <li> Inspect option in Google Chrome</li>
@@ -58,17 +58,17 @@ As you can see the 2 MB webpage loaded in 522 ms which is also very fast. A 47 m
 It is the same web page. It took 1.3 seconds to load.I don't understant why different sites are showing different number of requests. So as you can see it is very fast. Don't mind the low page speed score it is because I haven't done any sort of optimizations like serving server scaled images or anything like that at all. This is just the out of the box speed test.
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/gtmetrix-github.jpg'>
-It is the exactly same web page and it took 2.0 seconds to load which is not in any means is slow. But in comparison netlify achieved 1.3 seconds. 
+<img src='{{site.baseurl}}/assets/images/gtmetrix-github.JPG'>
+It is the exactly same web page and it took 2.0 seconds to load which is not in any means is slow. But in comparison netlify achieved 1.3 seconds.
 
 <h4>dotcom-monitor </h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/dotcom-netlify.jpg'>
+<img src='{{site.baseurl}}/assets/images/dotcom-netlify.JPG'>
 It is the same web page. The average first time visit took 2.3 seconds where as a second time visit took 1.3 seconds which is one second less compared to first time visit. It is probably because when the site was visited first time the cdn cache might have been empty. But during the second visit probably everything was served from the cdn cache.
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/dotcom-githubpages.jpg'>
+<img src='{{site.baseurl}}/assets/images/dotcom-githubpages.JPG'>
 It is the exactly same web page. Here the average first time visit took a big 4.6 seconds which is slow and the average second time visit took only 634.4 ms which is very fast.
 
 But here we have to give the point to netlify because netlify version of the site took only 2.3 seconds for first time visit which is fast and github pages version took twice as long. The reason for giving point to netlify is that netlify managed to load the site in a average time of 2.3 and 1.3 seconds for the first and second visit respectively.Both were fast. But in the case of github pages version one was extremely fast and other was slow. So I am giving point to netlify in this round.
@@ -76,11 +76,11 @@ But here we have to give the point to netlify because netlify version of the sit
 <h4> Dareboost speed test </h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/dareboost-netlify.jpg'>
+<img src='{{site.baseurl}}/assets/images/dareboost-netlify.JPG'>
 The time to first byte was 0.15 seconds and start render was 0.87 seconds.The fully loaded time was 2.02 seconds
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/dareboostspeedtest-github.jpg'>
+<img src='{{site.baseurl}}/assets/images/dareboostspeedtest-github.JPG'>
 The time to first byte was 0.12 seconds and start render was 0.47 seconds. The fully loaded time was 2.05 seconds.
 
 The difference is negligible.
@@ -88,24 +88,24 @@ The difference is negligible.
 <h4>Webpage test Speed Test</h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/webpagetest-netlify.jpg'>
-<img src='{{site.baseurl}}/assets/images/webpagetest-netlify2.jpg'>
-Here it took 3.816s to load. 
+<img src='{{site.baseurl}}/assets/images/webpagetest-netlify.JPG'>
+<img src='{{site.baseurl}}/assets/images/webpagetest-netlify2.JPG'>
+Here it took 3.816s to load.
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/github-webpagetest.jpg'>
-<img src='{{site.baseurl}}/assets/images/webpagetest-github2.jpg'>
+<img src='{{site.baseurl}}/assets/images/github-webpagetest.JPG'>
+<img src='{{site.baseurl}}/assets/images/webpagetest-github2.JPG'>
 So here it took 3.793 seconds to load the site.
 The difference is very small but here github pages did better in Load Time, Speed Index..
 
 <h4> Keycdn Speed Test </h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/keycdn-netlify.jpg'>
+<img src='{{site.baseurl}}/assets/images/keycdn-netlify.JPG'>
 Here netlify version took only 2.2 seconds which is fast
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/keycdn-githubpages.jpg'>
+<img src='{{site.baseurl}}/assets/images/keycdn-githubpages.JPG'>
 Here the github pages version took 3 seconds to fully load.
 
 <h3>Conclusion</h3>
@@ -161,20 +161,4 @@ In the below table the fully loaded times of both the versions are given.
 
 <p>Feel free to pick your own winner. For my use cases I think Netlify is the winner. This site you are reading now is hosted on Netlify.</p>
 
-The featured image on the top was from pixabay. Image by <a href="https://pixabay.com/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Pixabay</a> 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+The featured image on the top was from pixabay. Image by <a href="https://pixabay.com/users/bsdrouin-5016447/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Bethany Drouin</a> from <a href="https://pixabay.com/?utm_source=link-attribution&amp;utm_medium=referral&amp;utm_campaign=image&amp;utm_content=2402637">Pixabay</a>
