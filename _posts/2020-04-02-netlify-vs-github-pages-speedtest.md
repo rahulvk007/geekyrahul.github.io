@@ -38,6 +38,7 @@ This speed test may not be that accurate as my internet is a bit slow.
 
 <h5>Github Pages Speed Test</h5>
 <img src='{{site.baseurl}}/assets/images/chrome-inspector.jpg'>
+<img src='{{site.baseurl}}/assets/images/supercache-settings.jpg'>
 This speed test may not be that accurate as my internet is a bit slow.
 
 <h4>Pingdom Results</h4>
