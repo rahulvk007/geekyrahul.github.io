@@ -33,28 +33,28 @@ Both Github pages and Netlify are excellent solutions for hosting your site.Now 
 <h4> Inspect option in Google Chrome </h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/netlify-version.jpg'>
+<img src='{{site.baseurl}}/assets/images/netlify-version.JPG'>
 This speed test may not be that accurate as my internet is a bit slow.
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/chrome-inspector.jpg'>
-<img src='{{site.baseurl}}/assets/images/supercache-settings.jpg'>
+<img src='{{site.baseurl}}/assets/images/chrome-inspector.JPG'>
+
 This speed test may not be that accurate as my internet is a bit slow.
 
 <h4>Pingdom Results</h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/pingdom-netlify.jpg'>
+<img src='{{site.baseurl}}/assets/images/pingdom-netlify.JPG'>
 As you can see a 2 MB webpage loaded in 475ms which is very fast.We ran multiple tests and took the most concordant result.
 
 <h5>Github Pages Speed Test</h5>
-<img src='{{site.baseurl}}/assets/images/pingdom-github.jpg'>
+<img src='{{site.baseurl}}/assets/images/pingdom-github.JPG'>
 As you can see the 2 MB webpage loaded in 522 ms which is also very fast. A 47 ms difference in loading times is negligible. You may have noticed that the github pages version had 30 requests compared to 29 requests on netlify version. We don't know why. Both are exactly the same site and are even deployed from the same repository.
 
 <h4>GTmetrix </h4>
 
 <h5>Netlify speed test result</h5>
-<img src='{{site.baseurl}}/assets/images/gtmetrix-netlify.jpg'>
+<img src='{{site.baseurl}}/assets/images/gtmetrix-netlify.JPG'>
 It is the same web page. It took 1.3 seconds to load.I don't understant why different sites are showing different number of requests. So as you can see it is very fast. Don't mind the low page speed score it is because I haven't done any sort of optimizations like serving server scaled images or anything like that at all. This is just the out of the box speed test.
 
 <h5>Github Pages Speed Test</h5>
