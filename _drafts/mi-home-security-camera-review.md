@@ -63,8 +63,10 @@ Since the camera runs on 5V & 1A you can even power it with a power bank, I don'
 
 <P>You can store around of 3 and a half days footage with a 32 MicroSD card. The camera will automatically overwrite old footage to make space for the new footage. </P>
 
-A single video clip(1 minute) approximately takes around ## MB.
-
 You can rotate the camera using the Mi Home App. The camera can be rotated 360 degree horizontally. It cannot rotate in a complete circle like a fan.      
 
 During our testing we left the camera on for more than 20 days and found no issues at all. The camera was placed in a position that receives direct sunlight during the day. So far we have faced no issues. So the product is very much durable.
+
+
+
+Setting the camera up for use is very easy.All you have to do is download Mi Home App. Login or create an account. Then click on add devices select the camera. Make sure that the camera is powered on. Now you will see a QR code on your mobile app. You have to place 
