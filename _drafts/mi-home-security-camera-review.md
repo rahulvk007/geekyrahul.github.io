@@ -5,7 +5,7 @@ author: Rahul
 categories: tech
 permalink: /:categories/:title
 comments: false
-image: assets/images/camera.JPG
+image: assets/images/front.jpg
 rating: 4.5
 ---
 
@@ -13,9 +13,11 @@ rating: 4.5
 
 <h2>Mi Home Security Camera 360 review</h2>
 
-The camera front view
-#image slot
+The camera front view is given above in very beginning.
+
 The camera rear view
+<img src='{{site.baseurl}}/assets/images/speaker.jpg' alt='Rear View of Mi Home Security Camera 360'>
+
 <b>Price: ₹ 2,899</b>
 <h3>Specifications</h3>
 <ul>
@@ -57,7 +59,8 @@ The camera rear view
 <h3>Our Review of The Mi Home Security Camera 360 1080p camera</h3>
 
 <P>Mi Home Security Camera 360 1080p is white in color and is made of plastic. Its construction feels sturdy and durable. It has a slightly dome shape. Due to its color it perfectly blends into the surroundings. The speaker of the camera is located on the back side. The MicroSD card slot is underneath the lens area. You have to move the camera vertically up in order to access it.</P>
-#Image of MicroSD slot
+<img src='{{site.baseurl}}/assets/images/sdcard-slot.jpg' alt='MicroSD card slot of the Mi Home Security Camera 360'>
+
 <P>The slot to connect the adapter and a reset button is located near the base on the back side of the camera. Around the lens the camera has 8 Infrared LEDs to support night vision. The night vision mode has a range 10m but in our testing we installed the camera on the balcony on the upper floor and had no problem getting the gate and the road in front at night. So in the recommended range of 10m you will get clear and high quality night vision. But at much farer distance the quality would drop but still it is enough for a security camera. We have included footage at various conditions in this review. The camera supports two audio and has a Talkback feature. What this means is you can talk to anyone near the camera through the app. That is why there are speakers on the back of the camera.
 Since the camera runs on 5V & 1A you can even power it with a power bank, I don't see any reason why you might do that but if you want you can do it.</P>
 
@@ -67,6 +70,41 @@ You can rotate the camera using the Mi Home App. The camera can be rotated 360 d
 
 During our testing we left the camera on for more than 20 days and found no issues at all. The camera was placed in a position that receives direct sunlight during the day. So far we have faced no issues. So the product is very much durable.
 
+<h3>Setup</h3>
 
+Setting the camera up for use is very easy. All you have to do is download Mi Home App. Login or create an account. Then click on add devices select the camera. Make sure that the camera is powered on. Now you will see a QR code on your mobile app. You have to place your mobile In front of the camera so that the camera can scan the QR displayed on the mobile. This all that takes to Setup to your Mi Home Security Camera.
 
-Setting the camera up for use is very easy.All you have to do is download Mi Home App. Login or create an account. Then click on add devices select the camera. Make sure that the camera is powered on. Now you will see a QR code on your mobile app. You have to place 
+<h3>Video Quality</h3>
+
+Even though it says on the name of the camera itself 1080p do not expect hd quality visuals that you get on your mobile camera. The quality of the video is not bad. But it is definitely not the 1080p quality that we are used to. Considering the cost of the camera the video quality is excellent. Do not expect full hd quality video from any CCTV camera near this price point. Remember CCTV cameras are for taking surveillance footage and not for professional videography.
+<img src='{{site.baseurl}}/assets/images/outdoor-quality.jpg' alt='Image quality of the Mi Home Security 360 at outdoors'>
+
+In the image above you can see the image quality when the camera is at in doors. The video quality when the camera is mounted indoors is excellent. It is almost on par with smartphones.
+<img src='{{site.baseurl}}/assets/images/near-object.png' alt='Image quality of the Mi Home Security 360 at Indoors or near objects'>
+
+In the above image you can see image quality when the camera is mounted outdoors. It is not that great. But considering the price of the camera this is good.
+
+The mic quality is not that great but enough for a security camera. If you mount the camera near the gate or the front door then the talk back feature would be very useful.
+
+<h3>Night Vision</h3>
+
+The night vision mode on this camera is what I like the most. The camera offers excellent night vision capabilities. Even though the camera is rated up to 10m night vision we found that it works well beyond that with a little bit of sacrifice in quality. Here the below image shows the camera night vision capabilities well beyond the range of 10m.
+
+<img src='{{site.baseurl}}/assets/images/nightvision.jpg' alt='Mi Home Security Camera 360 night vision quality'>
+The image was taken at 1:20 AM. The night vision of the camera is in my opinion perfect. You can see in the image that the night vision works well beyond the range of 10m.
+<img src='{{site.baseurl}}/assets/images/nightvision-settings.jpg' alt='Mi Home App night vision settings'>
+
+In the night vision settings you have some options like Full color with low light. The camera is able to capture color videos in low light situations. But after it gets really dark you cannot capture color. If you set the night vision to switch automatically, It will automatically turn on night vision when it gets really dark and will automatically turn it off when there is enough light.
+I liked its night vision features very much.
+
+<h3>Video Playback</h3>
+
+You have to use the Mi Home App Playback section to view the recorded footage. You can have a continuous playback where you can go backwards or forwards in video using a slide. Refer the below image.
+<img src='{{site.baseurl}}/assets/images/continuous-playback.jpg' alt='Mi Home App Video Playback'>
+
+Or if you go to all playback videos, you can view them by the hour of the day they were recorded.
+<img src='{{site.baseurl}}/assets/images/playback-by-hour.png' alt='Mi Home App Video Playback by hour'>
+
+Mi Home App provides an excellent and easy to use method for video playback. You can see video playback my minute when you select an hour of the day in the All Playback videos section.
+
+<h3>Home surveillance Assistant</h3>
