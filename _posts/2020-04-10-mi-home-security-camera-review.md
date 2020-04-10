@@ -61,6 +61,8 @@ The camera rear view
 <P>Mi Home Security Camera 360 1080p is white in color and is made of plastic. Its construction feels sturdy and durable. It has a slightly dome shape. Due to its color it perfectly blends into the surroundings. The speaker of the camera is located on the back side. The MicroSD card slot is underneath the lens area. You have to move the camera vertically up in order to access it.</P>
 <img src='{{site.baseurl}}/assets/images/sdcard-slot.jpg' alt='MicroSD card slot of the Mi Home Security Camera 360'>
 
+You can see the micro sd card slot in the above image.
+
 <P>The slot to connect the adapter and a reset button is located near the base on the back side of the camera. Around the lens the camera has 8 Infrared LEDs to support night vision. The night vision mode has a range 10m but in our testing we installed the camera on the balcony on the upper floor and had no problem getting the gate and the road in front at night. So in the recommended range of 10m you will get clear and high quality night vision. But at much farer distance the quality would drop but still it is enough for a security camera. We have included footage at various conditions in this review. The camera supports two way audio and has a Talkback feature. What this means is you can talk to anyone near the camera through the app. That is why there are speakers on the back of the camera.
 Since the camera runs on 5V & 1A you can even power it with a power bank, I don't see any reason why you might do that but if you want you can do it.</P>
 
@@ -77,10 +79,11 @@ Setting the camera up for use is very easy. All you have to do is download Mi Ho
 <h3>Video Quality</h3>
 
 Even though it says on the name of the camera itself 1080p do not expect hd quality visuals that you get on your mobile camera. The quality of the video is not bad. But it is definitely not the 1080p quality that we are used to. Considering the cost of the camera the video quality is excellent. Do not expect full hd quality video from any CCTV camera near this price point. Remember CCTV cameras are for taking surveillance footage and not for professional videography.
-<img src='{{site.baseurl}}/assets/images/outdoor-quality.jpg' alt='Image quality of the Mi Home Security 360 at outdoors'>
+<img src='{{site.baseurl}}/assets/images/near-object.png' alt='Image quality of the Mi Home Security 360 at Indoors or near objects'>
 
 In the image above you can see the image quality when the camera is at in doors. The video quality when the camera is mounted indoors is excellent. It is almost on par with smartphones.
-<img src='{{site.baseurl}}/assets/images/near-object.png' alt='Image quality of the Mi Home Security 360 at Indoors or near objects'>
+<img src='{{site.baseurl}}/assets/images/outdoor-quality.jpg' alt='Image quality of the Mi Home Security 360 at outdoors'>
+The above image is cropped. It is there so that you can see what is the image quality. The orginal image has more field of view
 
 In the above image you can see the image quality when the camera is mounted outdoors. It is not that great. But considering the price of the camera this is good.
 
@@ -109,7 +112,7 @@ Mi Home App provides an excellent and easy to use method for video playback. You
 
 <h3>Home surveillance Assistant</h3>
 
-You can use the Home Surveillance Assistant to for motion detection. You have the option to select sensitivity between Low and High. If you select high sensitivity then even very small movements may be counted. You will receive a notification on your phone when motion is detected and also a small video clip of the detected motion. This feature is particularly useful when the camera is mounted Indoors.
+You can use the Home Surveillance Assistant for motion detection. You have the option to select sensitivity between Low and High. If you select high sensitivity then even very small movements may be counted. You will receive a notification on your phone when motion is detected and also a small video clip of the detected motion. This feature is particularly useful when the camera is mounted Indoors.
 
 <h3>Conclusion</h3>
 
