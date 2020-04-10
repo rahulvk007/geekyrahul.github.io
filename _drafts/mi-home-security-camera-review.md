@@ -79,12 +79,11 @@ Setting the camera up for use is very easy. All you have to do is download Mi Ho
 <h3>Video Quality</h3>
 
 Even though it says on the name of the camera itself 1080p do not expect hd quality visuals that you get on your mobile camera. The quality of the video is not bad. But it is definitely not the 1080p quality that we are used to. Considering the cost of the camera the video quality is excellent. Do not expect full hd quality video from any CCTV camera near this price point. Remember CCTV cameras are for taking surveillance footage and not for professional videography.
-<img src='{{site.baseurl}}/assets/images/outdoor-quality.jpg' alt='Image quality of the Mi Home Security 360 at outdoors'>
-
-The above image is cropped. It is there so that you can see what is the image quality. The orginal image has more field of view
+<img src='{{site.baseurl}}/assets/images/near-object.png' alt='Image quality of the Mi Home Security 360 at Indoors or near objects'>
 
 In the image above you can see the image quality when the camera is at in doors. The video quality when the camera is mounted indoors is excellent. It is almost on par with smartphones.
-<img src='{{site.baseurl}}/assets/images/near-object.png' alt='Image quality of the Mi Home Security 360 at Indoors or near objects'>
+<img src='{{site.baseurl}}/assets/images/outdoor-quality.jpg' alt='Image quality of the Mi Home Security 360 at outdoors'>
+The above image is cropped. It is there so that you can see what is the image quality. The orginal image has more field of view
 
 In the above image you can see the image quality when the camera is mounted outdoors. It is not that great. But considering the price of the camera this is good.
 
