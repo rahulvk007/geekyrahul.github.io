@@ -61,6 +61,8 @@ The camera rear view
 <P>Mi Home Security Camera 360 1080p is white in color and is made of plastic. Its construction feels sturdy and durable. It has a slightly dome shape. Due to its color it perfectly blends into the surroundings. The speaker of the camera is located on the back side. The MicroSD card slot is underneath the lens area. You have to move the camera vertically up in order to access it.</P>
 <img src='{{site.baseurl}}/assets/images/sdcard-slot.jpg' alt='MicroSD card slot of the Mi Home Security Camera 360'>
 
+You can see the micro sd card slot in the above image.
+
 <P>The slot to connect the adapter and a reset button is located near the base on the back side of the camera. Around the lens the camera has 8 Infrared LEDs to support night vision. The night vision mode has a range 10m but in our testing we installed the camera on the balcony on the upper floor and had no problem getting the gate and the road in front at night. So in the recommended range of 10m you will get clear and high quality night vision. But at much farer distance the quality would drop but still it is enough for a security camera. We have included footage at various conditions in this review. The camera supports two way audio and has a Talkback feature. What this means is you can talk to anyone near the camera through the app. That is why there are speakers on the back of the camera.
 Since the camera runs on 5V & 1A you can even power it with a power bank, I don't see any reason why you might do that but if you want you can do it.</P>
 
