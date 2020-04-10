@@ -6,6 +6,7 @@ categories: tech
 permalink: /:categories/:title
 comments: false
 image: assets/images/front.jpg
+description: "Mi Home Security Camera 360 1080p review. All features and images of actual footage are included in this review. In this review we take a look at all the features of the Camera and see if it is worth your money."
 ---
 
 <a href="https://en.wikipedia.org/wiki/Xiaomi">Xiaomi</a> is a Chinese electronic company that makes and sells smartphones, mobile apps, laptops, bags, earphones, shoes, fitness bands, cameras and many other products. One of their most famous products available on the market is their line up of Mi Home Security Cameras. In this article we are going to give you a detailed review of Mi Home Security Camera 360° 1080P .
