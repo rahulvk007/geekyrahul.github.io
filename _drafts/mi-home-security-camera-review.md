@@ -112,7 +112,7 @@ Mi Home App provides an excellent and easy to use method for video playback. You
 
 <h3>Home surveillance Assistant</h3>
 
-You can use the Home Surveillance Assistant to for motion detection. You have the option to select sensitivity between Low and High. If you select high sensitivity then even very small movements may be counted. You will receive a notification on your phone when motion is detected and also a small video clip of the detected motion. This feature is particularly useful when the camera is mounted Indoors.
+You can use the Home Surveillance Assistant for motion detection. You have the option to select sensitivity between Low and High. If you select high sensitivity then even very small movements may be counted. You will receive a notification on your phone when motion is detected and also a small video clip of the detected motion. This feature is particularly useful when the camera is mounted Indoors.
 
 <h3>Conclusion</h3>
 
