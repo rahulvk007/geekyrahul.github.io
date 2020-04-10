@@ -6,7 +6,6 @@ categories: tech
 permalink: /:categories/:title
 comments: false
 image: assets/images/front.jpg
-rating: 4.5
 ---
 
 <a href="https://en.wikipedia.org/wiki/Xiaomi">Xiaomi</a> is a Chinese electronic company that makes and sells smartphones, mobile apps, laptops, bags, earphones, shoes, fitness bands, cameras and many other products. One of their most famous products available on the market is their line up of Mi Home Security Cameras. In this article we are going to give you a detailed review of Mi Home Security Camera 360° 1080P .
